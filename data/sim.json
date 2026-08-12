@@ -1,0 +1,9 @@
+{
+  "account": "模拟炒股*gutz",
+  "user_id": "843281676",
+  "fund_account": "118977367",
+  "environment": "trade.10jqka.com.cn:8002",
+  "positions": [],
+  "orders": [],
+  "note": "持仓与成交由同花顺服务器托管，本地未缓存明文；将同花顺导出的持仓/成交导入工作台后，可保存到本文件。"
+}

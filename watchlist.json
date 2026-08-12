@@ -1,0 +1,219 @@
+[
+ {
+  "ths": "002460",
+  "tencent": "sz002460",
+  "name": "赣锋锂业",
+  "kind": "stock",
+  "em": "0.002460"
+ },
+ {
+  "ths": "300014",
+  "tencent": "sz300014",
+  "name": "亿纬锂能",
+  "kind": "stock",
+  "em": "0.300014"
+ },
+ {
+  "ths": "300750",
+  "tencent": "sz300750",
+  "name": "宁德时代",
+  "kind": "stock",
+  "em": "0.300750"
+ },
+ {
+  "ths": "000970",
+  "tencent": "sz000970",
+  "name": "中科三环",
+  "kind": "stock",
+  "em": "0.000970"
+ },
+ {
+  "ths": "300748",
+  "tencent": "sz300748",
+  "name": "金力永磁",
+  "kind": "stock",
+  "em": "0.300748"
+ },
+ {
+  "ths": "000831",
+  "tencent": "sz000831",
+  "name": "中国稀土",
+  "kind": "stock",
+  "em": "0.000831"
+ },
+ {
+  "ths": "002050",
+  "tencent": "sz002050",
+  "name": "三花智控",
+  "kind": "stock",
+  "em": "0.002050"
+ },
+ {
+  "ths": "688017",
+  "tencent": "sh688017",
+  "name": "绿的谐波",
+  "kind": "stock",
+  "em": "1.688017"
+ },
+ {
+  "ths": "300124",
+  "tencent": "sz300124",
+  "name": "汇川技术",
+  "kind": "stock",
+  "em": "0.300124"
+ },
+ {
+  "ths": "159589",
+  "tencent": "sz159589",
+  "name": "红利ETF广发",
+  "kind": "etf",
+  "em": "0.159589"
+ },
+ {
+  "ths": "515180",
+  "tencent": "sh515180",
+  "name": "红利ETF易方达",
+  "kind": "etf",
+  "em": "1.515180"
+ },
+ {
+  "ths": "560020",
+  "tencent": "sh560020",
+  "name": "红利ETF汇添富",
+  "kind": "etf",
+  "em": "1.560020"
+ },
+ {
+  "ths": "688981",
+  "tencent": "sh688981",
+  "name": "中芯国际",
+  "kind": "stock",
+  "em": "1.688981"
+ },
+ {
+  "ths": "002384",
+  "tencent": "sz002384",
+  "name": "东山精密",
+  "kind": "stock",
+  "em": "0.002384"
+ },
+ {
+  "ths": "600487",
+  "tencent": "sh600487",
+  "name": "亨通光电",
+  "kind": "stock",
+  "em": "1.600487"
+ },
+ {
+  "ths": "601179",
+  "tencent": "sh601179",
+  "name": "中国西电",
+  "kind": "stock",
+  "em": "1.601179"
+ },
+ {
+  "ths": "1A0001",
+  "tencent": "sh000001",
+  "name": "上证指数",
+  "kind": "index",
+  "em": null
+ },
+ {
+  "ths": "399905",
+  "tencent": "sz399905",
+  "name": "中证500",
+  "kind": "index",
+  "em": null
+ },
+ {
+  "ths": "399300",
+  "tencent": "sz399300",
+  "name": "沪深300",
+  "kind": "index",
+  "em": null
+ },
+ {
+  "ths": "1B0688",
+  "tencent": "sh000688",
+  "name": "科创50",
+  "kind": "index",
+  "em": null
+ },
+ {
+  "ths": "399006",
+  "tencent": "sz399006",
+  "name": "创业板指",
+  "kind": "index",
+  "em": null
+ },
+ {
+  "ths": "000922",
+  "tencent": "sz000922",
+  "name": "佳电股份",
+  "kind": "stock",
+  "em": "0.000922"
+ },
+ {
+  "ths": "688012",
+  "tencent": "sh688012",
+  "name": "中微公司",
+  "kind": "stock",
+  "em": "1.688012"
+ },
+ {
+  "ths": "300394",
+  "tencent": "sz300394",
+  "name": "天孚通信",
+  "kind": "stock",
+  "em": "0.300394"
+ },
+ {
+  "ths": "603993",
+  "tencent": "sh603993",
+  "name": "洛阳钼业",
+  "kind": "stock",
+  "em": "1.603993"
+ },
+ {
+  "ths": "600111",
+  "tencent": "sh600111",
+  "name": "北方稀土",
+  "kind": "stock",
+  "em": "1.600111"
+ },
+ {
+  "ths": "159242",
+  "tencent": "sz159242",
+  "name": "创业板人工智能ETF大成",
+  "kind": "etf",
+  "em": "0.159242"
+ },
+ {
+  "ths": "886033",
+  "tencent": null,
+  "name": "同花顺板块886033",
+  "kind": "block",
+  "em": null
+ },
+ {
+  "ths": "562590",
+  "tencent": "sh562590",
+  "name": "半导体设备ETF华夏",
+  "kind": "etf",
+  "em": "1.562590"
+ },
+ {
+  "ths": "159558",
+  "tencent": "sz159558",
+  "name": "半导体设备ETF易方达",
+  "kind": "etf",
+  "em": "0.159558"
+ },
+ {
+  "ths": "603259",
+  "tencent": "sh603259",
+  "name": "药明康德",
+  "kind": "stock",
+  "em": "1.603259"
+ }
+]
