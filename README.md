@@ -43,6 +43,29 @@ lib/                  ECharts / Lucide 本地依赖
 - 数据快照生成时间：2026-08-07 收盘后。
 - 模拟盘持仓与成交记录存储在服务器端，本地未缓存明文；工作台台账为本地导入维护。
 
+## 每日自动化
+
+复盘流水线每天自动运行三次（交易日）：
+
+- 盘前 08:50：`pre-market`
+- 午间 12:05：`midday`
+- 晚间 20:05：`evening`
+
+云端由 GitHub Actions 定时执行 `scripts/pipeline.py`，自动抓行情、生成分析、写报告并部署 GitHub Pages；本地可运行 `scripts/run_scheduled.sh` 同步自选股并推送。
+
+本机 LaunchAgent 模板在 `scripts/com.codex.trading-workstation.plist`，如需在 Mac 上启用（需在普通终端执行）：
+
+```bash
+cp scripts/com.codex.trading-workstation.plist ~/Library/LaunchAgents/
+launchctl bootstrap gui/20 20 12 61 79 80 81 98 701 33 100 204 250 395 398 399 400id -u) ~/Library/LaunchAgents/com.codex.trading-workstation.plist
+```
+
+## 云端部署
+
+- 站点：<https://chandal5y94j93-prog.github.io/stock-trading-workstation/>
+- 仓库：<https://github.com/chandal5y94j93-prog/stock-trading-workstation>
+- 部署方式：GitHub Actions（盘前/午间/晚间三个定时工作流 + 推送即部署）
+
 ## 风险声明
 
 本工具仅用于学习与模拟盘训练，不构成投资建议。技术指标和 AI 解读均可能失效，最终决策由使用者自行承担。
