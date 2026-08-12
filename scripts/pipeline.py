@@ -200,7 +200,7 @@ def fetch_fflow_daily(em_code):
     })
     rows = []
     for host in ("https://push2his.eastmoney.com", "https://push2delay.eastmoney.com"):
-        raw = get(f"{host}/api/qt/stock/fflow/daykline/get?{params}", timeout=12, retries=2,
+        raw = get(f"{host}/api/qt/stock/fflow/daykline/get?{params}", timeout=8, retries=1,
                   headers={"Referer": "https://quote.eastmoney.com/"})
         if not raw:
             continue
@@ -227,7 +227,7 @@ def fetch_fflow_intraday(em_code):
         "fields2": "f51,f52,f53,f54,f55,f56,f57,f58,f59,f60,f61,f62,f63,f64,f65",
     })
     for host in ("https://push2.eastmoney.com", "https://push2his.eastmoney.com"):
-        raw = get(f"{host}/api/qt/stock/fflow/kline/get?{params}", timeout=12, retries=2,
+        raw = get(f"{host}/api/qt/stock/fflow/kline/get?{params}", timeout=8, retries=1,
                   headers={"Referer": "https://quote.eastmoney.com/"})
         if not raw:
             continue

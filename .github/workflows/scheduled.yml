@@ -1,0 +1,79 @@
+name: Scheduled Reviews
+
+on:
+  schedule:
+    - cron: "50 0 * * 1-5"
+    - cron: "5 4 * * 1-5"
+    - cron: "5 12 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      session:
+        description: 复盘时段
+        required: true
+        default: midday
+        type: choice
+        options:
+          - pre-market
+          - midday
+          - evening
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: trading-review
+  cancel-in-progress: false
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Resolve session
+        id: session
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            SESSION="${{ inputs.session }}"
+          else
+            H=$(date -u +%H)
+            case "$H" in
+              00) SESSION=pre-market ;;
+              04) SESSION=midday ;;
+              *) SESSION=evening ;;
+            esac
+          fi
+          echo "session=$SESSION" >> "$GITHUB_OUTPUT"
+      - name: Run pipeline
+        env:
+          SESSION: ${{ steps.session.outputs.session }}
+        run: python3 scripts/pipeline.py --session "$SESSION" --repo .
+      - name: Commit updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "auto review $(date +%F) $SESSION"
+            git push
+          fi
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: review
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/configure-pages@v5
+      - name: Deploy Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

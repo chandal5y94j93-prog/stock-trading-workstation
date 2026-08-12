@@ -64,7 +64,7 @@ launchctl bootstrap gui/20 20 12 61 79 80 81 98 701 33 100 204 250 395 398 399 4
 
 - 站点：<https://chandal5y94j93-prog.github.io/stock-trading-workstation/>
 - 仓库：<https://github.com/chandal5y94j93-prog/stock-trading-workstation>
-- 部署方式：GitHub Actions（盘前/午间/晚间三个定时工作流 + 推送即部署）
+- 部署方式：GitHub Actions（Scheduled Reviews 单工作流盘前/午间/晚间三时段 + 推送即部署）
 
 ## 风险声明
 
