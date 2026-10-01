@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-30 17:44:55",
+ "generated_at": "2026-10-01 06:38:17",
  "portfolio": {
-  "avg_score": 37.32,
+  "avg_score": 37.64,
   "up_count": 12,
   "down_count": 13,
-  "total_main": 76491010.0,
+  "total_main": 305903938.0,
   "shanghai": {
    "name": "上证指数",
    "ths": "1A0001",
@@ -52,7 +52,7 @@
   },
   "count": 25
  },
- "summary": "今日自选股整体偏弱，12 涨 13 跌，已统计标的主力资金合计 净流入 0.76 亿。 上证指数 3842.19（+0.31%），大盘环境偏暖。",
+ "summary": "今日自选股整体偏弱，12 涨 13 跌，已统计标的主力资金合计 净流入 3.06 亿。 上证指数 3842.19（+0.31%），大盘环境偏暖。",
  "items": [
   {
    "name": "赣锋锂业",
@@ -168,9 +168,9 @@
     "mktcap": 13470.39,
     "float_mktcap": 12403.08
    },
-   "score": 33,
+   "score": 41,
    "trend": "空头",
-   "action": "减仓/回避",
+   "action": "观望/高抛低吸",
    "risk": "低",
    "indicators": {
     "ma5": 292.88,
@@ -185,8 +185,8 @@
    },
    "support": 312.09178,
    "resistance": 356.5,
-   "main_flow": 0,
-   "main_ratio": 0.0,
+   "main_flow": 229412928.0,
+   "main_ratio": 2.6632782945763434,
    "narrative": ""
   },
   {
