@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-02 06:18:45",
+ "generated_at": "2026-10-02 10:29:36",
  "portfolio": {
-  "avg_score": 35.72,
+  "avg_score": 37.0,
   "up_count": 12,
   "down_count": 13,
-  "total_main": -1218273427.0,
+  "total_main": 0,
   "shanghai": {
    "name": "上证指数",
    "ths": "1A0001",
@@ -29,7 +29,7 @@
     "mktcap": 682245.82,
     "float_mktcap": 602370.78
    },
-   "score": 17,
+   "score": 25,
    "trend": "空头",
    "action": "观察",
    "risk": "高",
@@ -46,13 +46,13 @@
    },
    "support": 3827.52426,
    "resistance": 3980.2,
-   "main_flow": -1546907904.0,
-   "main_ratio": -0.22768769556163163,
+   "main_flow": 0,
+   "main_ratio": 0.0,
    "narrative": ""
   },
   "count": 25
  },
- "summary": "今日自选股整体偏弱，12 涨 13 跌，已统计标的主力资金合计 净流出 12.18 亿。 上证指数 3842.19（+0.31%），大盘环境偏暖。",
+ "summary": "今日自选股整体偏弱，12 涨 13 跌，已统计标的主力资金合计 净流入 0.00 亿。 上证指数 3842.19（+0.31%），大盘环境偏暖。",
  "items": [
   {
    "name": "赣锋锂业",
@@ -78,9 +78,9 @@
     "mktcap": 910.59,
     "float_mktcap": 526.1
    },
-   "score": 41,
+   "score": 33,
    "trend": "空头",
-   "action": "观望/高抛低吸",
+   "action": "减仓/回避",
    "risk": "低",
    "indicators": {
     "ma5": 43.584,
@@ -95,8 +95,8 @@
    },
    "support": 45.709649999999996,
    "resistance": 51.57,
-   "main_flow": 76491010.0,
-   "main_ratio": 7.167448463268365,
+   "main_flow": 0,
+   "main_ratio": 0.0,
    "narrative": ""
   },
   {
@@ -123,9 +123,9 @@
     "mktcap": 1082.52,
     "float_mktcap": 1052.48
    },
-   "score": 69,
+   "score": 61,
    "trend": "偏多",
-   "action": "持有",
+   "action": "持有/观望",
    "risk": "低",
    "indicators": {
     "ma5": 48.984,
@@ -140,8 +140,8 @@
    },
    "support": 48.639359999999996,
    "resistance": 52.06,
-   "main_flow": 122559827.0,
-   "main_ratio": 8.076643008711928,
+   "main_flow": 0,
+   "main_ratio": 0.0,
    "narrative": ""
   },
   {
@@ -168,9 +168,9 @@
     "mktcap": 13470.39,
     "float_mktcap": 12403.08
    },
-   "score": 41,
+   "score": 33,
    "trend": "空头",
-   "action": "观望/高抛低吸",
+   "action": "减仓/回避",
    "risk": "低",
    "indicators": {
     "ma5": 292.88,
@@ -185,8 +185,8 @@
    },
    "support": 312.09178,
    "resistance": 356.5,
-   "main_flow": 229412928.0,
-   "main_ratio": 2.6632782945763434,
+   "main_flow": 0,
+   "main_ratio": 0.0,
    "narrative": ""
   },
   {
@@ -213,9 +213,9 @@
     "mktcap": 133.12,
     "float_mktcap": 133.12
    },
-   "score": 29,
+   "score": 37,
    "trend": "空头",
-   "action": "减仓/回避",
+   "action": "观望/高抛低吸",
    "risk": "低",
    "indicators": {
     "ma5": 11.164,
@@ -230,8 +230,8 @@
    },
    "support": 11.24697,
    "resistance": 12.05,
-   "main_flow": -6753441.0,
-   "main_ratio": -6.651015363403586,
+   "main_flow": 0,
+   "main_ratio": 0.0,
    "narrative": ""
   },
   {
@@ -258,7 +258,7 @@
     "mktcap": 333.19,
     "float_mktcap": 272.9
    },
-   "score": 17,
+   "score": 25,
    "trend": "空头",
    "action": "减仓/回避",
    "risk": "高",
@@ -275,8 +275,8 @@
    },
    "support": 24.806739999999998,
    "resistance": 26.96,
-   "main_flow": -14536300.0,
-   "main_ratio": -6.666498509516167,
+   "main_flow": 0,
+   "main_ratio": 0.0,
    "narrative": ""
   },
   {
@@ -303,10 +303,10 @@
     "mktcap": 559.58,
     "float_mktcap": 559.58
    },
-   "score": 20,
+   "score": 28,
    "trend": "空头",
    "action": "减仓/回避",
-   "risk": "高",
+   "risk": "低",
    "indicators": {
     "ma5": 53.15599999999999,
     "ma10": 53.717,
@@ -320,8 +320,8 @@
    },
    "support": 53.16010000000001,
    "resistance": 59.3,
-   "main_flow": -31123672.0,
-   "main_ratio": -4.564056721364363,
+   "main_flow": 0,
+   "main_ratio": 0.0,
    "narrative": ""
   },
   {
@@ -348,9 +348,9 @@
     "mktcap": 1502.68,
     "float_mktcap": 1318.07
    },
-   "score": 58,
+   "score": 66,
    "trend": "偏多",
-   "action": "持有/观望",
+   "action": "持有",
    "risk": "低",
    "indicators": {
     "ma5": 35.678,
@@ -365,8 +365,8 @@
    },
    "support": 34.68073,
    "resistance": 37.13,
-   "main_flow": -4273712.0,
-   "main_ratio": -0.2943125129123339,
+   "main_flow": 0,
+   "main_ratio": 0.0,
    "narrative": ""
   },
   {
@@ -393,9 +393,9 @@
     "mktcap": 501.87,
     "float_mktcap": 501.87
    },
-   "score": 29,
+   "score": 37,
    "trend": "空头",
-   "action": "减仓/回避",
+   "action": "观望/高抛低吸",
    "risk": "低",
    "indicators": {
     "ma5": 279.04200000000003,
@@ -410,8 +410,8 @@
    },
    "support": 279.47199,
    "resistance": 304.0,
-   "main_flow": -23873056.0,
-   "main_ratio": -2.25068879042142,
+   "main_flow": 0,
+   "main_ratio": 0.0,
    "narrative": ""
   },
   {
@@ -438,9 +438,9 @@
     "mktcap": 1406.38,
     "float_mktcap": 1252.06
    },
-   "score": 29,
+   "score": 37,
    "trend": "空头",
-   "action": "减仓/回避",
+   "action": "观望/高抛低吸",
    "risk": "低",
    "indicators": {
     "ma5": 52.25599999999999,
@@ -455,8 +455,8 @@
    },
    "support": 53.32523,
    "resistance": 60.99,
-   "main_flow": -18884457.0,
-   "main_ratio": -1.8735509697901682,
+   "main_flow": 0,
+   "main_ratio": 0.0,
    "narrative": ""
   },
   {
@@ -483,9 +483,9 @@
     "mktcap": 2.95,
     "float_mktcap": 2.95
    },
-   "score": 40,
+   "score": 32,
    "trend": "偏空",
-   "action": "观望/高抛低吸",
+   "action": "减仓/回避",
    "risk": "低",
    "indicators": {
     "ma5": 1.0812000000000002,
@@ -500,8 +500,8 @@
    },
    "support": 1.0760889999999999,
    "resistance": 1.14,
-   "main_flow": 882132.0,
-   "main_ratio": 14.002095238095238,
+   "main_flow": 0,
+   "main_ratio": 0.0,
    "narrative": ""
   },
   {
@@ -528,9 +528,9 @@
     "mktcap": 181.12,
     "float_mktcap": 181.12
    },
-   "score": 40,
+   "score": 32,
    "trend": "偏空",
-   "action": "观望/高抛低吸",
+   "action": "减仓/回避",
    "risk": "低",
    "indicators": {
     "ma5": 1.4068,
@@ -545,8 +545,8 @@
    },
    "support": 1.4002729999999999,
    "resistance": 1.476,
-   "main_flow": 40524857.0,
-   "main_ratio": 10.435675070172277,
+   "main_flow": 0,
+   "main_ratio": 0.0,
    "narrative": ""
   },
   {
@@ -573,10 +573,10 @@
     "mktcap": 1.47,
     "float_mktcap": 1.47
    },
-   "score": 24,
+   "score": 32,
    "trend": "偏空",
    "action": "减仓/回避",
-   "risk": "高",
+   "risk": "低",
    "indicators": {
     "ma5": 1.1024,
     "ma10": 1.1056000000000001,
@@ -590,8 +590,8 @@
    },
    "support": 1.096179,
    "resistance": 1.159,
-   "main_flow": -215615.0,
-   "main_ratio": -18.74913043478261,
+   "main_flow": 0,
+   "main_ratio": 0.0,
    "narrative": ""
   },
   {
@@ -618,7 +618,7 @@
     "mktcap": 9588.97,
     "float_mktcap": 2240.47
    },
-   "score": 17,
+   "score": 25,
    "trend": "空头",
    "action": "减仓/回避",
    "risk": "高",
@@ -635,8 +635,8 @@
    },
    "support": 117.2374,
    "resistance": 125.75,
-   "main_flow": -144365920.0,
-   "main_ratio": -2.9726696922025186,
+   "main_flow": 0,
+   "main_ratio": 0.0,
    "narrative": ""
   },
   {
@@ -663,7 +663,7 @@
     "mktcap": 3066.11,
     "float_mktcap": 2320.7
    },
-   "score": 17,
+   "score": 25,
    "trend": "空头",
    "action": "减仓/回避",
    "risk": "高",
@@ -680,8 +680,8 @@
    },
    "support": 182.82292,
    "resistance": 208.5,
-   "main_flow": -621443984.0,
-   "main_ratio": -11.964489966442502,
+   "main_flow": 0,
+   "main_ratio": 0.0,
    "narrative": ""
   },
   {
@@ -708,10 +708,10 @@
     "mktcap": 1353.06,
     "float_mktcap": 1346.07
    },
-   "score": 24,
+   "score": 32,
    "trend": "偏空",
    "action": "减仓/回避",
-   "risk": "高",
+   "risk": "低",
    "indicators": {
     "ma5": 61.986000000000004,
     "ma10": 65.806,
@@ -725,8 +725,8 @@
    },
    "support": 63.747530000000005,
    "resistance": 76.35,
-   "main_flow": -852852832.0,
-   "main_ratio": -9.525314367278193,
+   "main_flow": 0,
+   "main_ratio": 0.0,
    "narrative": ""
   },
   {
@@ -753,10 +753,10 @@
     "mktcap": 595.11,
     "float_mktcap": 595.11
    },
-   "score": 33,
+   "score": 25,
    "trend": "空头",
    "action": "减仓/回避",
-   "risk": "低",
+   "risk": "高",
    "indicators": {
     "ma5": 11.65,
     "ma10": 11.9015,
@@ -770,8 +770,8 @@
    },
    "support": 11.889115,
    "resistance": 12.785,
-   "main_flow": 30178808.0,
-   "main_ratio": 4.936582206009847,
+   "main_flow": 0,
+   "main_ratio": 0.0,
    "narrative": ""
   },
   {
@@ -798,7 +798,7 @@
     "mktcap": 682245.82,
     "float_mktcap": 602370.78
    },
-   "score": 17,
+   "score": 25,
    "trend": "空头",
    "action": "观察",
    "risk": "高",
@@ -815,8 +815,8 @@
    },
    "support": 3827.52426,
    "resistance": 3980.2,
-   "main_flow": -1546907904.0,
-   "main_ratio": -0.22768769556163163,
+   "main_flow": 0,
+   "main_ratio": 0.0,
    "narrative": ""
   },
   {
