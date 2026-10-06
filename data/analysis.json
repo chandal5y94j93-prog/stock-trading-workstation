@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06 06:55:42",
+ "generated_at": "2026-10-06 11:14:27",
  "portfolio": {
   "avg_score": 37.32,
   "up_count": 12,
@@ -29,7 +29,7 @@
     "mktcap": 682245.82,
     "float_mktcap": 602370.78
    },
-   "score": 17,
+   "score": 25,
    "trend": "空头",
    "action": "观察",
    "risk": "高",
@@ -46,8 +46,8 @@
    },
    "support": 3827.52426,
    "resistance": 3980.2,
-   "main_flow": -1546907904.0,
-   "main_ratio": -0.22768769556163163,
+   "main_flow": 0,
+   "main_ratio": 0.0,
    "narrative": ""
   },
   "count": 25
@@ -798,7 +798,7 @@
     "mktcap": 682245.82,
     "float_mktcap": 602370.78
    },
-   "score": 17,
+   "score": 25,
    "trend": "空头",
    "action": "观察",
    "risk": "高",
@@ -815,8 +815,8 @@
    },
    "support": 3827.52426,
    "resistance": 3980.2,
-   "main_flow": -1546907904.0,
-   "main_ratio": -0.22768769556163163,
+   "main_flow": 0,
+   "main_ratio": 0.0,
    "narrative": ""
   },
   {
