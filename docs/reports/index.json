@@ -1,6 +1,12 @@
 {
  "reports": [
   {
+   "date": "2026-11-11",
+   "session": "evening",
+   "file": "2026-11-11-evening.md",
+   "created_at": "2026-11-11 07:15:15"
+  },
+  {
    "date": "2026-11-10",
    "session": "evening",
    "file": "2026-11-10-evening.md",
