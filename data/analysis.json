@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-24 10:29:54",
+ "generated_at": "2026-11-24 14:46:20",
  "portfolio": {
   "avg_score": 38.36,
   "up_count": 8,
   "down_count": 17,
-  "total_main": 323271855.0,
+  "total_main": 511832813.0,
   "shanghai": {
    "name": "上证指数",
    "ths": "1A0001",
@@ -26,7 +26,7 @@
     "turnover": 1.01,
     "pe": 16.24,
     "pb": 0.0,
-    "mktcap": 620219.97,
+    "mktcap": 620219.99,
     "float_mktcap": 559279.51
    },
    "score": 33,
@@ -52,7 +52,7 @@
   },
   "count": 25
  },
- "summary": "今日自选股整体偏弱，8 涨 17 跌，已统计标的主力资金合计 净流入 3.23 亿。 上证指数 3548.37（+0.27%），大盘环境偏暖。",
+ "summary": "今日自选股整体偏弱，8 涨 17 跌，已统计标的主力资金合计 净流入 5.12 亿。 上证指数 3548.37（+0.27%），大盘环境偏暖。",
  "items": [
   {
    "name": "赣锋锂业",
@@ -303,7 +303,7 @@
     "mktcap": 393.82,
     "float_mktcap": 393.82
    },
-   "score": 12,
+   "score": 20,
    "trend": "空头",
    "action": "减仓/回避",
    "risk": "高",
@@ -320,8 +320,8 @@
    },
    "support": 45.04766,
    "resistance": 52.35,
-   "main_flow": -211768334.0,
-   "main_ratio": -13.313404290097067,
+   "main_flow": 0,
+   "main_ratio": 0.0,
    "narrative": ""
   },
   {
@@ -348,9 +348,9 @@
     "mktcap": 1445.87,
     "float_mktcap": 1268.24
    },
-   "score": 49,
+   "score": 41,
    "trend": "偏多",
-   "action": "持有/观望",
+   "action": "观望/高抛低吸",
    "risk": "低",
    "indicators": {
     "ma5": 32.894,
@@ -365,8 +365,8 @@
    },
    "support": 33.29305,
    "resistance": 36.7,
-   "main_flow": 0,
-   "main_ratio": 0.0,
+   "main_flow": -23207376.0,
+   "main_ratio": -0.8204719042332794,
    "narrative": ""
   },
   {
@@ -522,11 +522,11 @@
     "high": 1.36,
     "low": 1.346,
     "amount": 52450.0,
-    "turnover": 2.85,
+    "turnover": 2.87,
     "pe": 0.0,
     "pb": 0.0,
-    "mktcap": 183.8,
-    "float_mktcap": 183.8
+    "mktcap": 182.43,
+    "float_mktcap": 182.43
    },
    "score": 25,
    "trend": "空头",
@@ -567,28 +567,28 @@
     "high": 1.072,
     "low": 1.06,
     "amount": 611.0,
-    "turnover": 4.0,
+    "turnover": 4.03,
     "pe": 0.0,
     "pb": 0.0,
-    "mktcap": 1.53,
-    "float_mktcap": 1.53
+    "mktcap": 1.52,
+    "float_mktcap": 1.52
    },
    "score": 20,
    "trend": "空头",
    "action": "减仓/回避",
    "risk": "高",
    "indicators": {
-    "ma5": 1.0786000000000002,
-    "ma10": 1.0804,
-    "ma20": 1.0832000000000002,
-    "ma60": 1.0843500000000001,
-    "macd_dif": -0.0012640291173295903,
-    "macd_dea": 0.0002123053179365629,
-    "macd_hist": -0.0029526688705323063,
-    "rsi": 36.70886075949376,
-    "kdj_j": 19.68039884154838
+    "ma5": 1.078,
+    "ma10": 1.0801,
+    "ma20": 1.08305,
+    "ma60": 1.0843,
+    "macd_dif": -0.0015033453484820658,
+    "macd_dea": 0.0001644420820786548,
+    "macd_hist": -0.003335574861121441,
+    "rsi": 35.36585365853662,
+    "kdj_j": 12.609691770841039
    },
-   "support": 1.061536,
+   "support": 1.0613890000000001,
    "resistance": 1.101,
    "main_flow": 0,
    "main_ratio": 0.0,
@@ -795,7 +795,7 @@
     "turnover": 1.01,
     "pe": 16.24,
     "pb": 0.0,
-    "mktcap": 620219.97,
+    "mktcap": 620219.99,
     "float_mktcap": 559279.51
    },
    "score": 33,
@@ -1295,11 +1295,11 @@
     "high": 0.755,
     "low": 0.726,
     "amount": 48481.0,
-    "turnover": 7.38,
+    "turnover": 7.46,
     "pe": 0.0,
     "pb": 0.0,
-    "mktcap": 64.22,
-    "float_mktcap": 64.22
+    "mktcap": 63.52,
+    "float_mktcap": 63.52
    },
    "score": 61,
    "trend": "偏多",

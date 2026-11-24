@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-24 10:29:54",
+ "fetched_at": "2026-11-24 14:46:20",
  "items": [
   {
    "ths": "002460",
@@ -33608,19 +33608,7 @@
     ],
     "prev_close": 38.76
    },
-   "fflow": [
-    {
-     "date": "2026-11-24",
-     "main": -211768334.0,
-     "main_pct": -13.31,
-     "small": 175666608.0,
-     "medium": 36101712.0,
-     "large": -135743248.0,
-     "super": -76025086.0,
-     "close": 37.11,
-     "pct": -4.26
-    }
-   ],
+   "fflow": [],
    "fflow_intraday": [
     {
      "time": "2026-11-24T09:31",
@@ -39266,7 +39254,19 @@
     ],
     "prev_close": 33.88
    },
-   "fflow": [],
+   "fflow": [
+    {
+     "date": "2026-11-24",
+     "main": -23207376.0,
+     "main_pct": -0.82,
+     "small": 43816832.0,
+     "medium": -20609456.0,
+     "large": -20610608.0,
+     "super": -2596768.0,
+     "close": 34.36,
+     "pct": 1.42
+    }
+   ],
    "fflow_intraday": [
     {
      "time": "2026-11-24T09:31",
@@ -58147,11 +58147,11 @@
     "high": 1.36,
     "low": 1.346,
     "amount": 52450.0,
-    "turnover": 2.85,
+    "turnover": 2.87,
     "pe": 0.0,
     "pb": 0.0,
-    "mktcap": 183.8,
-    "float_mktcap": 183.8
+    "mktcap": 182.43,
+    "float_mktcap": 182.43
    },
    "kline": [
     {
@@ -63793,21 +63793,13 @@
     "high": 1.072,
     "low": 1.06,
     "amount": 611.0,
-    "turnover": 4.0,
+    "turnover": 4.03,
     "pe": 0.0,
     "pb": 0.0,
-    "mktcap": 1.53,
-    "float_mktcap": 1.53
+    "mktcap": 1.52,
+    "float_mktcap": 1.52
    },
    "kline": [
-    {
-     "date": "2025-10-29",
-     "open": 1.062,
-     "close": 1.066,
-     "high": 1.068,
-     "low": 1.06,
-     "volume": 5287.0
-    },
     {
      "date": "2025-10-30",
      "open": 1.066,
@@ -65882,9 +65874,9 @@
     },
     {
      "date": "2026-11-24",
-     "open": 1.07,
-     "close": 1.07,
-     "high": 1.07,
+     "open": 1.066,
+     "close": 1.067,
+     "high": 1.072,
      "low": 1.06,
      "volume": 57432.0
     }
@@ -92018,7 +92010,7 @@
     "turnover": 1.01,
     "pe": 16.24,
     "pb": 0.0,
-    "mktcap": 620219.97,
+    "mktcap": 620219.99,
     "float_mktcap": 559279.51
    },
    "kline": [
@@ -151417,11 +151409,11 @@
     "high": 0.755,
     "low": 0.726,
     "amount": 48481.0,
-    "turnover": 7.38,
+    "turnover": 7.46,
     "pe": 0.0,
     "pb": 0.0,
-    "mktcap": 64.22,
-    "float_mktcap": 64.22
+    "mktcap": 63.52,
+    "float_mktcap": 63.52
    },
    "kline": [
     {
